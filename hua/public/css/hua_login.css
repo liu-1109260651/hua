@@ -1,0 +1,297 @@
+.logo{
+	margin: 50px 200px;
+	text-align: left
+}
+.logo input,button{
+	border: 1px solid #FF6A00;
+	height: 35px;
+   
+}
+.logo input{
+	font-size: 10px;
+	text-indent: 10px;
+	width: 200px;
+}
+.logo button{
+	padding: 5px 20px;
+	background-color: #ff6a00;
+	color:white;
+	cursor: pointer;
+	font-size: 15px;
+}
+.ico-phone2{
+	display: inline-block;
+	width: 25px;
+	height:22px;
+	background: url(../../public/img/common_z.png) no-repeat;
+	background-size: 40px;
+	background-size: 320px ;
+	margin-bottom: 5px;
+	background-position: -288px -37px;
+	position: absolute;
+	top:2px;
+	left:0px
+	}
+	.telephone{
+	
+		font-size: 15px;
+		margin-left: 20px;
+		margin-right: 20px;
+		color:#737373;
+	}
+	.service,.service:hover{
+		font-size:14px;
+		text-decoration: none;
+		color:orange
+	}
+	.service{
+		color:#737373;
+		font-size: 14px;
+		margin-left: 10px
+	}
+	.ico-service{
+		display: inline-block;
+		width: 25px;
+		height:22px;
+		background: url(../../public/img/common_z.png) no-repeat;
+		background-size: 40px;
+		background-size: 320px ;
+		margin-bottom: 5px;
+		background-position: -223px -100px;
+		position: absolute;
+		top:2px;
+		left: 140px
+		}
+		.login_bg{
+		width: 1920px;
+		height:474px;
+		background: url(../../public/img/login_bg.jpg) no-repeat;
+		position: relative;
+		}
+		.login_user{
+			width: 360px;
+			height: 438px;
+			background-color: white;
+			position: absolute;
+			top:20px;
+			right:400px;
+			border-radius: 10px;
+		}
+.login_account{
+	width: 180px;
+	height: 51px;
+	cursor: pointer;
+	padding-top: 25px
+}
+.login_wx{
+	width: 180px;
+	height: 51px;
+	cursor: pointer;
+	padding-top: 25px
+}
+.active{
+	color:orange;
+	border-bottom:2px solid orange;
+}
+.ico_wx{
+	width: 70px;
+	height: 60px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.get-phone{
+	text-align: right;
+	color:#71797F;
+	font-size: 10px;
+	padding-right: 20px;
+	cursor: pointer;
+}
+.ico-phone3{
+	display: inline-block;
+	width: 25px;
+	height:22px;
+	background: url(../../public/img/pc_icon.png) no-repeat;
+	background-size: 40px;
+	background-size: 200px ;
+	margin-bottom: 5px;
+	background-position: 0px 0px;
+	position: absolute;
+	top:0px;
+	right:95px
+	}
+	.user_phone{
+		width:320px;
+		height: 40px;
+		text-indent: 40px;
+		font-size: 10px;
+		border:1px solid #E9ECF0;
+		outline: none;
+	}
+	.user_passwrod{
+		width: 320px;
+		margin-top: 40px;
+		height: 40px;
+		text-indent: 40px;
+		font-size: 10px;
+		border:1px solid #E9ECF0;
+		outline: none;
+	}
+	.ico-user-phone{
+		display: inline-block;
+		width: 25px;
+		height:22px;
+		background: url(../../public/img/pc_icon.png) no-repeat;
+		background-size: 40px;
+		background-size: 200px ;
+		margin-bottom: 5px;
+		background-position:-109px -37px;
+		position: absolute;
+		top:10px;
+		left:28px
+		}
+		.ico-user-passwrod{
+			display: inline-block;
+			width: 25px;
+			height:22px;
+			background: url(../../public/img/pc_icon.png) no-repeat;
+			background-size: 40px;
+			background-size: 200px ;
+			margin-bottom: 5px;
+			background-position:-57px -37px;
+			position: absolute;
+			top:87px;
+			left:28px
+			}
+.user_login{
+	margin-top: 40px;
+	width: 300px;
+	height: 40px;
+	background-color:#FF734C;
+	color:white;
+	margin-top: 50px;
+	border-radius: 30px;
+}
+.text_small{
+	font-size: 13px;
+	color: #71797F;
+	cursor: pointer;
+	margin-top: 10px;
+}
+.text_small2{
+	font-size: 15px;
+	color: #71797F;
+	margin-top: 15px;
+}
+.wx-img{
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+}
+.ico-wen{
+	display: inline-block;
+	width: 25px;
+	height:22px;
+	background: url(../../public/img/pc_icon.png) no-repeat;
+	background-size: 40px;
+	background-size: 200px ;
+	margin-bottom: 5px;
+	background-position:-81px 5px;
+	position: absolute;
+	bottom:-2px;
+	right: 95px;
+	cursor: pointer;
+	}
+	.wx-msg{
+		width: 180px;
+		height: 27px;
+		margin:0 auto;
+		background-color:#FEC3B3;
+		color:#000;
+		font-size: 9px;
+		border-radius: 10px;
+		padding-top: 5px;
+		position: absolute;
+		bottom:20px;
+		left: 90px;
+	}
+	.msg{
+		position: absolute;
+		top: 46px;
+		left: 20px;
+	}
+	.upwd_msg{
+		position: absolute;
+		top:125px;
+		left:20px
+	}
+	.qqlogin{
+		height: 50px;
+		background-color: #F7F9FA;
+		margin-top: 63px;
+		border-bottom-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+	.qq-icon{
+		display: inline-block;
+		width: 27px;
+		height:30px;
+		background: url(../../public/img/pc_icon.png) no-repeat;
+		background-size: 40px;
+		background-size: 200px ;
+		margin-bottom: 5px;
+		background-position:-34px -109px;
+		position: absolute;
+		top:15px;
+		left:20px;
+		cursor: pointer;
+		}
+		.qq{
+			display: block;
+			color:#71797F;
+			font-size: 14px;
+			position: absolute;
+			top:19px;
+			left:50px;
+			cursor: pointer;
+		}
+		.zfb-icon{
+			display: inline-block;
+			width: 27px;
+			height:30px;
+			background: url(../../public/img/pc_icon.png) no-repeat;
+			background-size: 40px;
+			background-size: 200px ;
+			margin-bottom: 5px;
+			background-position:-70px -109px;
+			position: absolute;
+			top:15px;
+			left:110px;
+			cursor: pointer;
+			}
+			.zfb{
+				display: block;
+				color:#71797F;
+				font-size: 14px;
+				position: absolute;
+				top:19px;
+				left:137px;
+				cursor: pointer;
+			}
+.user-yzm{
+	width:200px;
+	height: 40px;
+	text-indent: 40px;
+	font-size: 10px;
+	border:1px solid #E9ECF0;
+	outline: none;
+	margin-top: 40px;
+	position: absolute;
+	top: 40px;
+
+}
+
+
+
+
+
